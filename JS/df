@@ -1,0 +1,14 @@
+ // if (keyWentDown("space") && direc1 == 1) {
+          //   bullet = createSprite(pl1.x, pl1.y, 10, 10);
+          //   bullet.shapeColor = "red";
+          //   bullet.velocityX = -5;
+          //   bullet.mirrorX(-1);
+          //   bulletGroup.add(bullet);
+          // }
+          // if (keyWentDown("space") && direc1 == 0) {
+          //   bullet = createSprite(pl1.x, pl1.y, 10, 10);
+          //   bullet.shapeColor = "red";
+          //   bullet.velocityX = 5;
+          //   bullet.mirrorX(1);
+          //   bulletGroup.add(bullet);
+          // }
